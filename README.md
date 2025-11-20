@@ -93,7 +93,7 @@ Open a terminal (CMD or PowerShell) inside your project folder:
 
 Then run:
 
-python download_collection.py <APPID> <COLLECTION_ID> <LOGIN> <FINAL_OUTDIR>
+python download_collection.py <APPID>  <COLLECTION_ID>  <LOGIN>  <FINAL_OUTDIR>
 
 python download_collection.py 1000000 2222222222 anonymous C:\Users\Documents\mods
 
